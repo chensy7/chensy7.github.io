@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://siyuanchen-nanjing.github.io/sitemap.xml
+Sitemap: https://chensy7.github.io/sitemap.xml
