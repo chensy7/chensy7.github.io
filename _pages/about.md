@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Hamerschlag Hall</p>
-    <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA 15213</p>
 
 news: false  # includes a list of news items
