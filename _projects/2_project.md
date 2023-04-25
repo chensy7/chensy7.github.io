@@ -2,7 +2,7 @@
 layout: page
 title: SpNN
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/die-capture-spnn-mosis22.png
 importance: 1
 category: work
 ---
