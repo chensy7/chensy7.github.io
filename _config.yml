@@ -268,8 +268,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Tang
-  first_name: [Larry]
+  last_name: Chen
+  first_name: [Siyuan]
 
   style: /_bibliography/ieee.csl
   locale: en
