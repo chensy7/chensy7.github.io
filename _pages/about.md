@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hamerschlag Hall</p>
-    <p>Pittsburgh, PA 15213</p>
+    <p></p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
