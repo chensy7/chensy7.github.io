@@ -22,4 +22,4 @@ I am a 3rd year PhD student in Electrical and Computer Engineering at Carnegie M
 
 Prior to CMU, I graduated from Duke University with my BS in Electrical and Computer Engineering. During my undergrad I worked with [Prof. Krishnendu Chakrabarty](https://www.linkedin.com/in/krishnendu-chakrabarty-2521186) on hardware security. 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lS8yC4ApWqsMr9rm67baZkeMf7gP27ADQEs-VMHwduE&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lS8yC4ApWqsMr9rm67baZkeMf7gP27ADQEs-VMHwduE"></script>
