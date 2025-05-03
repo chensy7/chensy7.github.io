@@ -18,7 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+
+<br />
+
 <font color="red"> **DLAGen** v0.5 has been released! Check out our hardware generator tool for deep learning accelerators! Full release coming up soon!</font> [Github](https://github.com/CMU-VLSI/dlagen)
+
+<br />
 
 I am a 5th year PhD student in Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Ken Mai](https://www.ece.cmu.edu/directory/bios/mai-ken.html). I’m a computer architect and a chip-building VLSI engineer with sub-28nm tapeout experiences. My research interests are in the design of domain-specific accelerators for emerging applications such as deep learning and robotics. I’m especially interested in designing flexible and future-proof accelerators that are ready for workloads of the future.
 
