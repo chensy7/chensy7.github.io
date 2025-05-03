@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br />
 
-<font color="red"> **DLAGen** v0.5 has been released! Check out our hardware generator tool for deep learning accelerators! Full release coming up soon!</font> [Github](https://github.com/CMU-VLSI/dlagen)
+<font color="red"> DLAGen v0.5 has been released! Check out our hardware generator tool for deep learning accelerators! Full release coming up soon!</font> [Github](https://github.com/CMU-VLSI/dlagen)
 
 <br />
 
