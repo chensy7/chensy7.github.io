@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /assets/pdf/resume-siyuanchen-apr23.pdf
+permalink: /assets/pdf/resume-siyuanchen-aug24.pdf
 title: cv
 nav: true
 nav_order: 4
